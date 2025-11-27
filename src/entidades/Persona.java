@@ -1,6 +1,8 @@
 package entidades;
 
+import java.time.LocalDate;
+
 public class Persona {
     private String nombre;
-    private String fechaCumple;
+    private LocalDate fechaCumple;
 }
